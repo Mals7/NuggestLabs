@@ -1,0 +1,4 @@
+Boton con borde 
+<ul class="actions">
+<li><a href="#" class="button">COMENZAR</a></li>
+</ul>
